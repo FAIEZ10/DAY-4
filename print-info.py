@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+ #!/usr/bin/env python3
 
 """Simple script that reads one line of input from the user and prints it."""
 
